@@ -1,0 +1,15 @@
+{
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "find_selected_text": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "open_files_in_new_window": false,
+    "detect_indentation": false,
+    "translate_tabs_to_spaces": true,
+    "use_tab_stops": true,
+    "auto_match_enabled": false,
+    "expand_tabs_on_save": true,
+    "trim_trailing_white_space_on_save": true,
+}
