@@ -3,6 +3,7 @@
     { "keys": ["ctrl+s"], "command": "repl_transfer_current", "args": {"scope": "selection"}},
     { "keys": ["command+k"], "command": "repl_clear"},
     { "keys": ["ctrl+c"], "command": "repl_escape"},
+    // { "keys": ["ctrl+c"], "command": "subprocess_repl_send_signal"},
     { "keys": ["command+t"], "command": "new_file"},
     { "keys": ["command+f"], "command": "show_panel", "args": {"panel": "replace"}}
 ]

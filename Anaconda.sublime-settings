@@ -2,14 +2,14 @@
 
     "pep8_ignore":
     [
-    	"W191", "E126", "E127", "E501"
+        "W191", "E126", "E127", "E501", "W291"
     ],
-    "auto_complete_triggers": 
+    "auto_complete_triggers":
     [
-    	{
-    		"selector": "source.python - string - comment - constant.numeric", 
-    		"characters": "."
-    	}
+        {
+            "selector": "source.python - string - comment - constant.numeric",
+            "characters": "."
+        }
     ],
     "complete_parameters": true,
     "complete_all_parameters": true,
